@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Startups**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and AI**
 
 - 👨‍💻 Some of my projects are available at [https://rishabhkarn.netlify.app/](https://rishabhkarn.netlify.app/)
 
