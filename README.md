@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
 <h3 align="center">A developer who is passionate to create your dream web</h3>
 
-- 🔭 I’m currently working on **Startups**
+- 🔭 I’m currently working on **Networking**
 
 - 🌱 I’m currently learning **Machine Learning and AI**
 
